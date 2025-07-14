@@ -1,2 +1,7 @@
 *.pyc
 .idea/
+saved_models/
+data/
+.venv/
+__pycache__/
+__init__.py
